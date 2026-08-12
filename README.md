@@ -2,7 +2,7 @@
 
 ### 🎧 打开收听 / Listen now
 
-## **<https://medill-east.github.io/PWE-Music-Player/>**
+## **<https://playwithexperiences.github.io/PWE-Music-Player/>**
 
 打开即可收听，无需注册。手机上可用浏览器的「添加到主屏幕」当作 App 使用。
 
